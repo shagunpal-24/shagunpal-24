@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Shagun Pal
 
-I'm a passionate and curious full-stack web developer currently delving deep into Node.js. I enjoy building efficient and user-friendly applications, and I continuously learn new technologies to enhance my skills.
+I'm a passionate and curious full-stack web developer currently delving deep into Java and DSA. I enjoy building efficient and user-friendly applications, and I continuously learn new technologies to enhance my skills.
 
 ## 🚀 About Me
-- 🌱 Currently learning: *Node.js*, Express.js, MongoDB
+- 🌱 Currently learning: Java OOPS and solving DSA 
 - 🎯 Focused on mastering backend development
 - 💼 Actively seeking internship opportunities
 - 📚 Strong foundation in HTML, CSS, JavaScript, and Git
@@ -15,7 +15,7 @@ I'm a passionate and curious full-stack web developer currently delving deep int
 ## 🛠 Tech Stack
 - Languages: JavaScript, HTML, CSS
 - Tools: Git, GitHub, VS Code, Postman
-- Currently exploring: Node.js, Express.js, MongoDB
+- Currently exploring: Java OOPS and DSA
 
 ---
 
